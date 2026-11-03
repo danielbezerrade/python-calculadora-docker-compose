@@ -1,0 +1,7 @@
+services:
+  calculadora:
+    image: imagem-calculadora
+    container_name: container-calculadora
+    stdin_open: true
+    tty: true
+    
